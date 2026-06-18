@@ -145,8 +145,8 @@ The notebook covers:
 ## 👤 Author
 
 **Moaz**  
-📧 [moaz.dev1@gmail.com](mailto:moaz.dev1@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/moaz) · [GitHub](https://github.com/moaz-dev1)
+📧 [moaz.dev1@gmail.com](mailto:moazsarwar2004@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/moaz-sarwar-881714322) · [GitHub](https://github.com/moazsarwar2004)
 
 ---
 
